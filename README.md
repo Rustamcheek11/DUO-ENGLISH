@@ -1,5 +1,4 @@
 # DUO-ENGLISH
-# Your Program's Name
 
 ## Description
 This is a small program that invites users to register or visit as a guest without registering. The registration section includes special rights for the administrator.
