@@ -1,0 +1,71 @@
+Go (v)
+bormoq
+Rent (n)
+ijara
+Win (v)
+yutmoq
+Alert (adj)
+ogohlantirish
+Love (n)
+yoqtirmoq
+Founder (n)
+asoschi
+Then (adv)
+u paytda
+Complicated (adj)
+murakkab
+Flat (n)
+kvartira
+Certainly (adv)
+aniq
+Ablaze (adj)
+olov ichida qolmoq
+Nail (v)
+mix qoqmoq
+Machina (n)
+mashina
+Daily (adj)
+har kunlik
+Day (n)
+kun
+Wait
+kutmoq
+Face (n)
+yuz
+Yard (n)
+maydon
+Cabinet (n)
+palata
+Get up (v)
+turmoq
+Baby (n)
+chaqaloq
+Cable (n)
+sim arqon
+Dad (n)
+ota
+Happy (avd)
+baxtli
+School (n)
+maktab
+Book (n)
+kitob
+Run (v)
+yugurmoq
+Food (n)
+ovqat
+Moon (n)
+oy
+Tree (n)
+daraxt
+Water (n)
+suv
+Fire (n)
+olov
+Wind (n)
+shamol
+Rain (n)
+yomg'iq
+Red (adj)
+qizil
+Line unidfine
